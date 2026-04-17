@@ -109,3 +109,4 @@ src/
 - All animations are optimized for performance using Framer Motion
 "# PavanKhadar_Portfolio" 
 "# Pavankhadar_portfolio_" 
+"# Pavankhadar_portfolio_" 
